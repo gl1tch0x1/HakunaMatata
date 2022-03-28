@@ -12,5 +12,5 @@ Everything you need for Bug Bounty Hunting. Thanks
   ### ENJOY !!!!!!!!!
   <br>
                                               With ❤️
-                                              By ### Cybersploit*
+                                              By Cybersploit*
 
