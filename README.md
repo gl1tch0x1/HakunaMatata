@@ -8,5 +8,9 @@ Everything you need for Bug Bounty Hunting. Thanks
   * Download and run with your own responsibility.
   * This tool is made for only educational purpose
   * Don't pentest anyone website without permission or else see you behind bars.
-  * ENJOY !!!!!!!!!
+  <br>
+  ### ENJOY !!!!!!!!!
+  <br>
+                                              With ❤️
+                                              By ### Cybersploit*
 
