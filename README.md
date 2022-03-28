@@ -9,7 +9,8 @@ Everything you need for Bug Bounty Hunting. Thanks
   * This tool is made for only educational purpose
   * Don't pentest anyone website without permission or else see you behind bars.
   <br>
-  ### ENJOY !!!!!!!!!
+ 
+  ### ENJOY !!!
   <br>
                                               With ❤️
                                               By Cybersploit*
