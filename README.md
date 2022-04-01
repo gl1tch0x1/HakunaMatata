@@ -1,6 +1,6 @@
 ### HakunaMatata[There Are No Problems]
 <br>
-Compelete Web hacking and Bug Bounty tools
+Complete Web hacking and Bug Bounty tools
 
 Everything you need for Bug Bounty Hunting. Thanks
 <br>
